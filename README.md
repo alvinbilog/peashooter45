@@ -37,12 +37,12 @@ Here are some suggestions to make the most of my GitHub repository:
 
 If you find my projects helpful or simply want to support my learning journey, you can buy me a virtual coffee. Your support means a lot and keeps me fueled for coding sessions. Thank you!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-brightgreen)](https://www.buymeacoffee.com/peashooter45)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-brightgreen)](https://www.buymeacoffee.com/peashooter1)
 
 ## 📫 Get in Touch
 
 - **GitHub:** [Peashooter45](https://github.com/peashooter45)
-- **Email:** [your.email@example.com](mailto:balvinpatrick@yahoo.com)
+- **Email:** [balvinpatrick@yahoo.com](mailto:balvinpatrick@yahoo.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/alvin-patrick-bilog-095ba6a8/)
 
 Thanks for visiting my GitHub profile! I hope you find my projects inspiring and useful. Happy coding! 🚀
