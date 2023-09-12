@@ -5,13 +5,16 @@ Welcome to my GitHub repository. I'm a budding developer excited about learning 
 ## 🚀 Tech Stack
 
 - **Frontend:**
+  - HTML
+  - CSS
+  - Javascript
   - React
   - Next.js
   - React Query
   - Tailwind CSS
+  - Sass
   - TypeScript
-  - HTML
-  - CSS
+ 
 
 - **Backend:**
   - Node.js
