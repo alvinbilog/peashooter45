@@ -5,20 +5,20 @@ Welcome to my GitHub repository. I'm a budding developer excited about learning 
 ## 🚀 Tech Stack
 
 - **Frontend:**
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML" /> HTML
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS" /> CSS
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" /> JavaScript
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" /> React
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="Next.js" /> Next.js
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactquery/reactquery-original.svg" height="20" alt="React Query" /> React Query
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="20" alt="Tailwind CSS" /> Tailwind CSS
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="20" alt="Sass" /> Sass
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" /> TypeScript
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML" /> HTML
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS" /> CSS
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" /> JavaScript
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" /> React
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" /> Next.js
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactquery/reactquery-original.svg" height="60" alt="React Query" /> React Query
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="Tailwind CSS" /> Tailwind CSS
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="Sass" /> Sass
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" /> TypeScript
 
 - **Backend:**
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="Node.js" /> Node.js
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="Express.js" /> Express.js
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="MongoDB" /> MongoDB
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" /> Node.js
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="Express.js" /> Express.js
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" /> MongoDB
 
 ## 💡 Suggestions
 
@@ -36,7 +36,7 @@ Here are some suggestions to make the most of my GitHub repository:
 
 If you find my projects helpful or simply want to support my learning journey, you can buy me a virtual coffee. Your support means a lot and keeps me fueled for coding sessions. Thank you!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-brightgreen)](https://www.buymeacoffee.com/peashooter1)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%60Me%60a%60Coffee-%E2%98%95-brightgreen)](https://www.buymeacoffee.com/peashooter1)
 
 ## 📫 Get in Touch
 
